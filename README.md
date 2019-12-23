@@ -1,1 +1,1 @@
-# sentence-generation_GRU-
+# sentence-generation_GRU
